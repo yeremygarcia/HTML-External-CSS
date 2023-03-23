@@ -9,7 +9,7 @@
     font-family: system-ui, 'Helvetica Neue', sans-serif
   }
   nav{
-    background: black;
+    background: rgb(31, 29, 31);
     height: 150px;
     width: 100%;
   }
@@ -46,7 +46,7 @@ div.search-container img{
   padding: 0 25px;
 }
 div.login-container img{
-    width: 75px;
+    width: 25px;
     height: auto;
     margin-right: 20px;
   }
